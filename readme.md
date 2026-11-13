@@ -92,15 +92,14 @@ TaskAgent-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/LahariJoshi/TaskAgent-AI-An-Autonomous-LLM-Driven-SQL-Agent-for-Intelligent-Task-Management.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd TaskAgent-AI
+cd TaskAgent-AI-An-Autonomous-LLM-Driven-SQL-Agent-for-Intelligent-Task-Management
 ```
-
 ### 2. Create a Virtual Environment
 
 ```bash
